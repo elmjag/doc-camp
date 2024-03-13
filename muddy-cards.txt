@@ -1,0 +1,63 @@
+Spring Doc Camp 2024
+
+
+-------- 1 -------------
+
+Wellcome to Doc Camp!
+I'll give you a quick overview MxCube dev documentaion.
+I will also talk about the technical aspects of working with the docs.
+
+-------- 2 -------------
+
+MxCube have developers documentation, one for web and one for core.
+The docs are published to these URLs.
+Quickly show web and core docs. (switch to different tabs)
+This is current state of latest docs. Must expand!
+
+New version is build and published when PR is merged.
+A preview is also build when you create a new PR.
+
+-------- 3 -------------
+
+The MxCube documentation is build using Sphinx documentation generator.
+See for URL to learn more about Sphinx.
+We use Markdown and reStructuredText to write the docs,
+and the use Sphinx to generate HTML from that.
+Sphinx also extracts python doc strings and generates HTML.
+
+
+-------- 4 -------------
+
+Markdown is simple markup language, you can write this easily in any text editor.
+Quite popular, supported by a lot of differen systems, github, gitlab, IDEs, etc.
+Fully readable as is, without rendering.
+Different flavours, Sphinx is using 'commonmark', see the URL.
+
+
+-------- 5 -------------
+
+This is how it can look like when Markdown is rendered.
+Heading level 1, level 2, list, in-line code, URL link.
+
+-------- 6 -------------
+
+Sphinx supports both reStructuredText and Markdown.
+reStructuredText is in principle same thing as Markdown, different syntax.
+We have a mix.
+Sphinx use file extension to determine if reStructuredText or Markdown
+
+
+-------- 7 -------------
+
+Any questions?
+
+-------- 8 -------------
+
+workshop time
+
+-------- 9 -------------
+
+Pick/add topic, make sure you write your name,
+so that everybody knows which topics are picked.
+
+
